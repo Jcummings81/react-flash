@@ -9,5 +9,10 @@
     "url": "https://github.com/Jcummings81/react-flash"
   },
   "author": "jcummings1981",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "styled-components": "^4.0.0"
+  }
 }
